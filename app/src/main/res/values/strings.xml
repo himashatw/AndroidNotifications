@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidNotifications</string>
+    <string name="channel_name">Channel 99</string>
+    <string name="channel_description">Custom Channel 1</string>
+    <string name="CHANNEL_ID">channel99</string>
+
+</resources>
